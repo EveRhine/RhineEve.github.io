@@ -1,0 +1,4 @@
+baseURL = 'https://EveRhine.github.io/'
+languageCode = 'zh-CN'
+title = 'mxzhao'
+theme = 'ananke'
